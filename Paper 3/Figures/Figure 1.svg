@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Figure15.svg"
-   inkscape:export-filename="/Users/mathieuboudreau/Work/Papers_PhDWork/SensitivityOptimization/figures/png/Figure15.png"
+   sodipodi:docname="Figure 1.svg"
+   inkscape:export-filename="/Users/mathieuboudreau/Work/Thesis/Paper 3/Figures/Figure 1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90942994"
-     inkscape:cx="-23.681175"
+     inkscape:cx="-33.299025"
      inkscape:cy="232.06823"
      inkscape:document-units="px"
      inkscape:current-layer="g6019"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="778"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-height="790"
+     inkscape:window-x="1920"
+     inkscape:window-y="181"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1698,7 +1698,7 @@
              id="tspan8438"
              sodipodi:role="line">Δk<tspan
    style="font-size:14.09636497px;baseline-shift:sub"
-   id="tspan8440">F</tspan> (%)</tspan></text>
+   id="tspan8440">f</tspan> (%)</tspan></text>
         <text
            transform="matrix(0,-1,1,0,0,0)"
            sodipodi:linespacing="125%"
